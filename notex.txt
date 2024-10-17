@@ -1,0 +1,33 @@
+Data Types:
+    Integers
+    String
+    Float
+    Boolean
+    None
+
+Conditional statement
+    if
+    elif
+    else
+
+Best practices:
+    simple instructions
+    one instruction per task
+    short & meaningful variable names
+    use appropriate comments
+    avoid complex expressions
+
+Comments:
+
+#Single line comments
+
+"""
+    multiline comments
+    hello
+"""
+
+Types of operators
+    Arthmetic operators (\-+/%**)
+    Relational operators (++ != >= <+)
+    Assignment operators (= += -= /= %= **=)
+    Logical operators (not and or)
