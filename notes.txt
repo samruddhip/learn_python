@@ -1,0 +1,11 @@
+Types of the function
+
+
+1. Bulit-in function
+    print()
+    len()
+
+2. user deined functions
+
+
+default argument at last
