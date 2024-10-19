@@ -1,0 +1,8 @@
+abcdabcd all files
+
+1. Text Files: .txt, .docs, .log, etc
+
+2. Binary Files: .mp4, .mov, .png, .jpeg, etc
+
+EX_TRA_
+Experience Transfer
