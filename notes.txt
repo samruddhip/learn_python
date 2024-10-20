@@ -5,3 +5,14 @@ and only showing the essential features to the user.
 
 Encapsulation:
 Wrapping data and functions into a single uint (object).
+
+Private(like) attributes an methods
+Make private obeject using "__" (double _) before object name for private object and before class anme for private class
+
+
+Inheritance
+    Types of the Inheritance
+        1. Single Inheritance
+        2. Multi-level Inheritance
+        3. Multiple Inheritance
+
